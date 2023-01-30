@@ -3,4 +3,4 @@
 
 ## APIs
 ## Random Facts: https://catfact.ninja/fact
-## Random Image: https://cataas.com/cat/say/hello
+## Random Image: `https://cataas.com/cat/say/${firstWord}?size=50&color=red&json=true`

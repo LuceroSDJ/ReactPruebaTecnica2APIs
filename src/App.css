@@ -1,0 +1,13 @@
+main {
+    /* the following code centers everything inside main*/
+    display: flex;
+    max-width: 800px;
+    flex-direction: column;
+    /* place-items: center; */
+    justify-content: center; /* align the item on the main axis */
+    align-items: center;  /* property to align our item on the cross axis */
+    /* margin: 0 auto; centers main itself */
+    margin: 0 auto;
+}
+
+/* we can replace lines 6 & 7 with place-items: center*/
